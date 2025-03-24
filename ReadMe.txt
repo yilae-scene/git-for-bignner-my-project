@@ -1,6 +1,6 @@
 Welcome to MyProject!
 
 
-Author: Yilikal
+Author: Yilikal Ayalew
 
 Twitter @yilikalAyalew
