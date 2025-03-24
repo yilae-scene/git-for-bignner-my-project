@@ -1,6 +1,4 @@
 Welcome to MyProject!
 
-
-Author: Yilikal Zegeye
-
+Author: Yilikal Ayalew Zegeye
 Twitter @yilikalAyalew
